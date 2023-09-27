@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Personal details
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Stefano Aretusini. I was born in 31/08/1989 in Rovigo (Italy). 
+You might know me also as:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- [ORCID](https://orcid.org/0000-0001-7211-3838)
+- [Web of Science](https://www.webofscience.com/wos/author/record/39322138)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56646472200)
