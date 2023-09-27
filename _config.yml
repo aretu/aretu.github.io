@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My Website
+title: Stefano Aretusini
 
 # Your name to show in the footer
 author: Stefano Aretusini
@@ -21,9 +21,8 @@ author: Stefano Aretusini
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Research interests: "https://beautifuljekyll.com"
-    - CV: "https://www.markdowntutorial.com/"
+  Short CV: "compact-cv"
+  Publications: "publications"
 
 ################
 # --- Logo --- #
