@@ -7,23 +7,26 @@ subtitle: My track record
 
 ## Education and key qualifications
 
-- 28/03/2018:	PhD
- - Thesis title: Frictional processes of clay-rich gouges at seismic slip rates.
- - School of Earth and Environmental Sciences, Faculty of Science and Engineering, The University of Manchester, United Kingdom
- - Dr. Steve Covey-Crump, Prof. Giulio Di Toro
- - [LINK](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:314424&datastreamId=FULL-TEXT.PDF)
+### PhD
+- 28/03/2018
+- Thesis title: Frictional processes of clay-rich gouges at seismic slip rates.
+- School of Earth and Environmental Sciences, Faculty of Science and Engineering, The University of Manchester, United Kingdom
+- Dr. Steve Covey-Crump, Prof. Giulio Di Toro
+- [LINK](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:314424&datastreamId=FULL-TEXT.PDF)
 
-- 2013: Master
- - Thesis title: Architecture and seismic markers of an exhumed fault zone in dolostones (Foiana line, Italian Southern Alps).
- - Dipartimento di Geoscienze, Università degli Studi di Padova, Italy
- - Prof. Giulio Di Toro, Dr. Michele Fondriest
- - [LINK](https://thesis.unipd.it/handle/20.500.12608/17763)
+### Master degree
+- 2013
+- Thesis title: Architecture and seismic markers of an exhumed fault zone in dolostones (Foiana line, Italian Southern Alps).
+- Dipartimento di Geoscienze, Università degli Studi di Padova, Italy
+- Prof. Giulio Di Toro, Dr. Michele Fondriest
+- [LINK](https://thesis.unipd.it/handle/20.500.12608/17763)
   
-- 2011: Bachelor
- - Thesis title: Evoluzione microstrutturale con il rigetto in faglie sismogenetiche in tonalite (faglia delle Gole Larghe, Adamello, Italia)
- - Dipartimento di Geoscienze, Università degli Studi di Padova, Italy
- - Prof. Giulio Di Toro, Dr. Silvia Mittempergher
- - [LINK](https://thesis.unipd.it/handle/20.500.12608/16221)
+### Bachelor degree
+- 2011
+- Thesis title: Evoluzione microstrutturale con il rigetto in faglie sismogenetiche in tonalite (faglia delle Gole Larghe, Adamello, Italia)
+- Dipartimento di Geoscienze, Università degli Studi di Padova, Italy
+- Prof. Giulio Di Toro, Dr. Silvia Mittempergher
+- [LINK](https://thesis.unipd.it/handle/20.500.12608/16221)
   	  
 ## Current position(s)
 
