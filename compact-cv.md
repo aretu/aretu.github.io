@@ -8,12 +8,23 @@ subtitle: My track record
 ## Education and key qualifications
 
 - 28/03/2018:	PhD
-  - School of Earth and Environmental Sciences, Faculty of Science and Engineering, The University of Manchester, United Kingdom
-  - Dr. Steve Covey-Crump, Prof. Giulio Di Toro
+	- Thesis title: Frictional processes of clay-rich gouges at seismic slip rates.
+	- School of Earth and Environmental Sciences, Faculty of Science and Engineering, The University of Manchester, United Kingdom
+	- Dr. Steve Covey-Crump, Prof. Giulio Di Toro
+	- [LINK](https://www.escholar.manchester.ac.uk/api/datastream?publicationPid=uk-ac-man-scw:314424&datastreamId=FULL-TEXT.PDF)
 
 - 2013: Master
+	- Thesis title: Architecture and seismic markers of an exhumed fault zone in dolostones (Foiana line, Italian Southern Alps).
 	- Dipartimento di Geoscienze, Università degli Studi di Padova, Italy
-
+ 	- Prof. Giulio Di Toro, Dr. Michele Fondriest
+  	- [LINK](https://thesis.unipd.it/handle/20.500.12608/17763)
+  
+- 2011: Bachelor
+	- Thesis title: Evoluzione microstrutturale con il rigetto in faglie sismogenetiche in tonalite (faglia delle Gole Larghe, Adamello, Italia)
+ 	- Dipartimento di Geoscienze, Università degli Studi di Padova, Italy
+ 	- Prof. Giulio Di Toro, Dr. Silvia Mittempergher
+  	- [LINK](https://thesis.unipd.it/handle/20.500.12608/16221)
+  	  
 ## Current position(s)
 
 - 2022 - now: Contract Researcher
@@ -28,10 +39,8 @@ subtitle: My track record
 I am a 34 years old Contract Researcher in Istituto Nazionale di Geofisica e Vulcanologia (Rome, Italy). 
 My research is interdisciplinary, spanning in the fields of Structural Geology and Rock Deformation. I am devoted to the study of the seismic source by integrating classic Structural Geology methods (microstructural observations with electron microscopy, x-ray diffraction, Raman and FTIR spectroscopy) with innovative laboratory experiments that reproduce the extreme deformation conditions during earthquakes or landslide collapses, with a particular interest in developing novel techniques that allow us to measure the highest possible number of observables to better understand what controls the natural phenomena reproduced in the laboratory.
 
-## Research achievements
-I present here a short list of publications to highlight my research interests.
-
--
+## Publications list
+A full [publications list](https://aretu.github.io/publications/) is available.
 
 ## Peer recognition
 - 2017: Outstanding Student Poster and PICO Award, European Geosciences Union.
