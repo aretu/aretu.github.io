@@ -5,6 +5,7 @@ subtitle: Personal details
 ---
 
 My name is Stefano Aretusini. I was born in 31/08/1989 in Rovigo (Italy). 
+
 You might know me also from:
 
 - [ORCID](https://orcid.org/0000-0001-7211-3838)
