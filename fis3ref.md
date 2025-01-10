@@ -130,7 +130,8 @@ subtitle: Reference list
 - Spray, J. G. (2005). Evidence for melt lubrication during large earthquakes. Geophysical Research Letters, 32(7), n/a-n/a. https://doi.org/10.1029/2004GL022293
 
 - Sulem, J., & Famin, V. (2009). Thermal decomposition of carbonates in fault zones: Slip-weakening and temperature-limiting effects. Journal of Geophysical Research, 114(B3). https://doi.org/10.1029/2008jb006004
-Taylor, G. I., & Quinney, H. (1934). The latent energy remaining in a metal after cold working. Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character, 143(849), 307–326. https://doi.org/10.1098/rspa.1934.0004
+
+- Taylor, G. I., & Quinney, H. (1934). The latent energy remaining in a metal after cold working. Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character, 143(849), 307–326. https://doi.org/10.1098/rspa.1934.0004
 
 - Tinti, E., Fukuyama, E., Piatanesi, A., & Cocco, M. (2005). A Kinematic Source-Time Function Compatible with Earthquake Dynamics. Bulletin of the Seismological Society of America, 95(4), 1211–1223. https://doi.org/10.1785/0120040177
 
